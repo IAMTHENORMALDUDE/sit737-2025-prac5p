@@ -33,5 +33,5 @@ This project containerizes my Prac 4.1P calculator microservice using Docker and
 
 ## Health Check
 
-- Monitors `/add` endpoint every 30s.
+- Monitors `/health` endpoint every 30s.
 - Restarts container after 3 failures.
