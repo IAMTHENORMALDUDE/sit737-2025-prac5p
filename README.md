@@ -35,12 +35,3 @@ This project containerizes my Prac 4.1P calculator microservice using Docker and
 
 - Monitors `/add` endpoint every 30s.
 - Restarts container after 3 failures.
-
-````
-
-I committed and pushed:
-```bash
-git add README.md
-git commit -m "Added README documentation"
-git push
-````
