@@ -10,7 +10,7 @@ This project containerizes my Prac 4.1P calculator microservice using Docker and
    - Docker, Node.js, Git installed.
 2. **Clone the Repo**:
    ```bash
-   git clone https://github.com/username/sit737-2025-prac5p.git
+   git clone https://github.com/IAMTHENORMALDUDE/sit737-2025-prac5p.git
    cd sit737-2025-prac5p
    ```
 3. **Build and Run**:
